@@ -1,6 +1,7 @@
 ---
-title: Template for Knowledge Base Docs Websites
+title: Jason's Traveling Knowledge Base Website
 ---
+**Traveling is all about exploring new places, meeting new people, and creating memories you’ll never forget.**
 ## The index page
 
 This is the index page (`content/index.md`) of your knowledge base docs. It serves as the home page for your website.
@@ -39,4 +40,5 @@ You can use any text editor capable of opening and editing Markdown files.
 ## Adding new pages
 
 You can add more pages to your website by adding more Markdown files to the `content/` folder. Take a look at [[Example doc 01]] to learn more.
+
 
