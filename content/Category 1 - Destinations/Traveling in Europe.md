@@ -7,7 +7,8 @@ Europe is full of history, art, and unforgettable experiences. Each country offe
 - **England** – London, Oxford, historic castles.  
 - **France** – Paris, Provence, French Riviera.  
  - **Italy** – Rome, Florence, Venice, and Tuscan landscapes.  
-- **Spain** – Barcelona, Madrid, Andalusia.  
+- **Spain** – Barcelona, Madrid, Andalusia.
+[View Nature in Spain Guide (PDF)](assets/natureinspain.pdf)
 - **Greece** – Athens, Santorini, and island adventures.  
   
 > "Europe is a continent where history and modern life meet in every corner."

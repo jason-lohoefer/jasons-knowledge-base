@@ -14,7 +14,6 @@ Canada offers breathtaking landscapes, vibrant cities, and rich culture. From co
 
 ![Niagara Falls](assets/niagarafalls.jpg)
 
-
 > "Canada blends nature and culture in a way few countries can."
 
 For travel to Mexico, see [[Traveling in Mexico.md|Traveling in Mexico]].
