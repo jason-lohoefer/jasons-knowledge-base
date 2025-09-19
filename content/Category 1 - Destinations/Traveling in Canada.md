@@ -12,7 +12,10 @@ Canada offers breathtaking landscapes, vibrant cities, and rich culture. From co
 ### Bonus Destination
 - **Niagara Falls** – Iconic waterfalls shared with the USA.  
 
+![Niagara Falls](assets/niagarafalls.jpg)
+
+
 > "Canada blends nature and culture in a way few countries can."
 
 For travel to Mexico, see [[Traveling in Mexico.md|Traveling in Mexico]].
-For travel to the USA, see [[Traveling in the USA.md|Traveling in the USA]]. 
+For travel to the USA, see [[Traveling in the USA.md|Traveling in the USA]].
