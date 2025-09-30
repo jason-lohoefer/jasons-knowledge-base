@@ -1,3 +1,8 @@
+---
+title: "Traveling in Mexico"
+date: 2025-09-29
+---
+
 # Traveling in Mexico
 Mexico is rich in culture, history, and natural beauty. From vibrant cities to beach resorts, it offers something for every traveler. Mexico City is a bustling capital with museums, markets, historic sites, and lively street life. San Miguel de Allende and the Guanajuato region showcase colonial architecture, colorful streets, and cultural festivals. Oaxaca City is famous for traditional cuisine, artisan markets, and cultural traditions. Puerto Vallarta features beaches, water sports, and vibrant nightlife. Mexico’s landscapes range from deserts and mountains to jungles and coastlines. Travelers can explore history, enjoy local foods, or relax by the sea. Each region has its own character and charm, providing a wide variety of experiences for visitors seeking culture, adventure, or relaxation.
 
