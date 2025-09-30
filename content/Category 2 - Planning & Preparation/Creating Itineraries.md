@@ -22,4 +22,3 @@ Travel experts like [Rick Steves](https://www.ricksteves.com) recommend grouping
 
 ### Related Pages
 - For planning transport, see [[Air Travel Tips.md|Air Travel Tips]].  
--
